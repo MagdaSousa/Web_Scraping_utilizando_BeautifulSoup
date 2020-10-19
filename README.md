@@ -1,3 +1,1 @@
-# Web_Scraping_utilizando_BeautifulSoup
-Treinando a extração de dados com a técnica de web Scraping utilizando o BeautifulSoup  
-Extraindo dados estatisticos dos jogadores do time CHICACO BULLS, utilizando técnica de web scraping com Beautifulshop
+# Raspagem de dados utilizando o BeautifulSoup, usando como base o site de fãs do seriado shadowhunters, para estudos dos conceitos abordados no curso "python para ciência de dados".
